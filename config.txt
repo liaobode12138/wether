@@ -1,0 +1,14 @@
+{
+# 微信公众号配置
+"app_id": "wxb1563ac8ff3cc3ef",
+"app_secret": "1a7343f12156c9f155e463417bd3231c",
+"template_id": "cuSA4bFaoESc5iu-fCZUVrFidr0c6D-u3pELFWeM1S0",
+"user": ["oCBnL5_7XKNinXZGYkWP_vIrsdEg"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+# 信息配置
+"weather_key": "d5586259d2b648a081862cd8377c096a",
+"region": "乐山市", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"birthday1": {"name": "臭宝宝", "birthday": "2006-10-24"}, # 生日1，姓名和生日，生日若为农历在最前面加上r即可
+"love_date": "2022-08-13", # 在一起的日期，暂不支持农历
+"note_ch": "", # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_en": "" # 金句英文
+}
