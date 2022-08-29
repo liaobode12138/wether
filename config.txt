@@ -3,7 +3,7 @@
 "app_id": "wxb1563ac8ff3cc3ef",
 "app_secret": "1a7343f12156c9f155e463417bd3231c",
 "template_id": "cuSA4bFaoESc5iu-fCZUVrFidr0c6D-u3pELFWeM1S0",
-"user": ["oCBnL5_7XKNinXZGYkWP_vIrsdEg"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oCBnL5_7XKNinXZGYkWP_vIrsdEg","oCBnL56OIOgNWQ8XKmAxy-xs1n-4"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
 # 信息配置
 "weather_key": "d5586259d2b648a081862cd8377c096a",
 "region": "乐山市", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
